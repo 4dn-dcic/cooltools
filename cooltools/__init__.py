@@ -16,3 +16,4 @@ __version__ = '0.1.0'
 from . import io
 from . import lib
 from .lib import numutils
+from . import insulation
